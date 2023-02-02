@@ -1,0 +1,7 @@
+line 17 - It is a for loop that is assigning data to ch and counting 
+the number of characters in the file looping through until the end of the file.
+
+line 18 - it is an if statement that tests whether the character string passed is
+uppercase.
+
+line 21 - I am redifining num_lower by taking the num_lower and adding one to it.
